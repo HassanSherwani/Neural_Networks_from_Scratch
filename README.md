@@ -3,7 +3,7 @@ Based on sentdex latest series
 
 # Credit
 
-This code is taken from 
+This code is based on
 
 https://nnfs.io/
 
