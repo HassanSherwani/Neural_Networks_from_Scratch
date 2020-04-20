@@ -7,4 +7,4 @@ This code is based on
 
 https://nnfs.io/
 
-At few points have been added as for my own research. But, full credit goes to such developers who helped me in learning neural network concepts.
+At few points have been added as for my own research. But, full credit goes to the developers/authors who helped me in learning neural network concepts.
