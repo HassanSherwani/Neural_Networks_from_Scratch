@@ -1,6 +1,6 @@
 # Neural_Networks_from_Scratch
 
-Based on sentdex latest series. I have also made few experiments as per my previous knowledge of neural networks.
+Based on sentdex latest series.
 
 # Credit
 
